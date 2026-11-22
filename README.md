@@ -46,3 +46,7 @@ Data lives in this browser only. Clearing the browser data, or losing the phone,
 - Use **Settings → Save backup** often. It saves one `.json` file that includes the bill photos.
 - To hand over to the next committee, send them that file. They open the app and choose **Restore backup**.
 - **Settings → Start next year** carries the closing balances forward as the new opening balances.
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).
